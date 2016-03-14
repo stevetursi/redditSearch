@@ -15,8 +15,8 @@ public class RedditArticle {
     private String subReddit;
 
     @JsonProperty("selftext")
-
     private String selfText;
+
     private String author;
     private String url;
     private String title;

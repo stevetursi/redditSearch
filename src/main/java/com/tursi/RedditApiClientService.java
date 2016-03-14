@@ -27,7 +27,6 @@ public class RedditApiClientService {
 
     public List<RedditArticle> searchApi(String searchText) throws Exception {
 
-//        RestTemplate restTemplate = new RestTemplate();
         HttpHeaders headers = new HttpHeaders();
         headers.add("user-agent", "Steve's REST client"); // reddit will place strict rate limits if you don't specify a user-agent
         HttpEntity<String> entity = new HttpEntity<>("parameters", headers);
