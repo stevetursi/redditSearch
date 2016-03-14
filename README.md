@@ -4,7 +4,7 @@ This is a very simple reddit search service, written in Java and using Spring Bo
 
 You can view the running app at `https://stevetursi-redditsearch.herokuapp.com/search/{searchTerm}`
 
-For exmaple: https://stevetursi-redditsearch.herokuapp.com/search/star%20trek
+For example: https://stevetursi-redditsearch.herokuapp.com/search/star%20trek
 
 ##Building
 
