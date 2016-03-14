@@ -1,3 +1,5 @@
+#RedditSearch
+
 This is a very simple reddit search service, written in Java and using Spring Boot.
 
 You can view the running app at `https://stevetursi-redditsearch.herokuapp.com/search/{searchTerm}`
